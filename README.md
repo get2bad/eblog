@@ -4,6 +4,7 @@
 
 ### 如果您想执行本项目
 修改application-vm.yml中的服务器配置信息，然后在cmd/powershell/terminel终端中执行以下语句:
+
 ``` java
 mvn install // 安装maven依赖
 mvn package // 打包本项目至target目录
