@@ -10,7 +10,7 @@ mvn install // 安装maven依赖
 mvn package // 打包本项目至target目录
 // 进入target目录，执行以下语句
 java -jar wills_blog.jar
-
+``` java
 
 #### 项目结构：
 ```
@@ -61,7 +61,6 @@ eblog
 │  │      │  └─res
 │  │      │
 │  │      └─templates #页面模板
-
 ```
 
 #### 技术选型：
